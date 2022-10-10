@@ -10,8 +10,8 @@
 "user": ["ozO6g6pkoekrSNelMtIL60_RXYo8"],
  
 # 信息配置
-# 百度地图
-"weather_key": "llGayk3gbRQ8GUd1iOcrAsurYB9bd0Qw",
+# 和风天气apikey
+"weather_key": "6c3260d30a134aa6af576f4cd2dfd294",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "宁波",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
